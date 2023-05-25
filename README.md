@@ -1,16 +1,17 @@
-### Hi there 👋
+## About me
 
-<!--
-**0marContreras/0marContreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I´m a student currently studying software development engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I like the web development (fontend and backend)
+- I'm interested in videogame development
+- I like the colaboration with other developers
+- I'm a self-taught person always willing to learn new things
+
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,express,php,mysql,mongo,prisma,bootstrap,tailwind,planetscale,java)](https://skillicons.dev)
+
+## Currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,py,cs,unity,visualstudio,raspberrypi,linux,kotlin,androidstudio,django,arduino,gamemakerstudio,docker,)](https://skillicons.dev)
