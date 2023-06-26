@@ -10,7 +10,7 @@ I´m a student currently studying software development engineering.
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,express,php,mysql,mongo,prisma,bootstrap,tailwind,planetscale,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,express,php,mysql,mongo,bootstrap,tailwind,planetscale,java)](https://skillicons.dev)
 
 ## Currently learning
 
