@@ -14,4 +14,4 @@ I´m a student currently studying software development engineering.
 
 ## Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,py,cs,unity,visualstudio,linux,kotlin,androidstudio,django,gamemakerstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,py,cs,unity,linux,kotlin,androidstudio,django,gamemakerstudio)](https://skillicons.dev)
