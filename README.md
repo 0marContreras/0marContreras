@@ -12,6 +12,4 @@ I´m a student currently studying software development engineering.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,nextjs,express,php,mysql,mongo,bootstrap,tailwind,planetscale,java)](https://skillicons.dev)
 
-## Currently learning
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,py,cs,unity,linux,kotlin,androidstudio,django,gamemakerstudio)](https://skillicons.dev)
