@@ -3,9 +3,9 @@
 
 I´m a student currently studying software development engineering.
 
-- I like the web development (fontend and backend)
+- I like web development (frontend and backend)
 - I'm interested in videogame development
-- I like the colaboration with other developers
+- I like to colaborate with other developers
 - I'm a self-taught person always willing to learn new things
 
 ## Technologies
