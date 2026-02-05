@@ -1,9 +1,10 @@
 ## About me
 
 
-I´m a student currently studying software development engineering.
+I´m software development engineer.
 
-- I like web development (frontend and backend)
+- Fullstack web developer
+- Web crawler developer
 - I'm interested in videogame development
 - I like to colaborate with other developers
 - I'm a self-taught person always willing to learn new things
